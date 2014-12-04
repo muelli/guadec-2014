@@ -1,0 +1,444 @@
+HTTrack3.48-1+libhtsjava.so.2 launched on Fri, 05 Dec 2014 00:48:48 at https://2014.guadec.org/ +https://www.guadec.org
+(httrack -w https://2014.guadec.org/ -O /tmp/guadec14 -%v -s0 -%e0 -d +https://www.guadec.org )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:49:05	Error: 	"Not Found" (404) at link https://www.guadec.org/conduct/ (from https://2014.guadec.org/)
+00:49:06	Warning: 	Found for https://2014.guadec.org/?share=google-plus-1
+00:49:06	Warning: 	File has moved from https://2014.guadec.org/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2F
+00:49:07	Warning: 	Found for https://2014.guadec.org/?share=reddit
+00:49:07	Warning: 	File has moved from https://2014.guadec.org/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2F&title=Welcome%20to%20GUADEC
+00:49:07	Warning: 	Found for https://2014.guadec.org/?share=twitter
+00:49:07	Warning: 	File has moved from https://2014.guadec.org/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Welcome+to+GUADEC&url=https%3A%2F%2F2014.guadec.org%2F
+00:49:07	Warning: 	Found for https://2014.guadec.org/?share=facebook
+00:49:07	Warning: 	File has moved from https://2014.guadec.org/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2F&t=Welcome%20to%20GUADEC
+00:49:08	Warning: 	File not parsed, looks like binary: https://2014.guadec.org/wp-content/plugins/jetpack/_inc/genericons/genericons/Genericons.eot
+00:49:08	Warning: 	File not parsed, looks like binary: https://2014.guadec.org/wp-content/plugins/jetpack/_inc/genericons/genericons/Genericons.ttf
+00:49:19	Warning: 	Found for https://2014.guadec.org/schedule/?share=google-plus-1
+00:49:19	Warning: 	File has moved from https://2014.guadec.org/schedule/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fschedule%2F
+00:49:19	Warning: 	Found for https://2014.guadec.org/schedule/?share=reddit
+00:49:19	Warning: 	File has moved from https://2014.guadec.org/schedule/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fschedule%2F&title=Schedule
+00:49:19	Warning: 	Found for https://2014.guadec.org/schedule/?share=twitter
+00:49:19	Warning: 	File has moved from https://2014.guadec.org/schedule/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Schedule&url=https%3A%2F%2F2014.guadec.org%2Fschedule%2F
+00:49:20	Warning: 	Found for https://2014.guadec.org/schedule/?share=facebook
+00:49:20	Warning: 	File has moved from https://2014.guadec.org/schedule/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fschedule%2F&t=Schedule
+00:49:20	Warning: 	Found for https://2014.guadec.org/sponsors/?share=google-plus-1
+00:49:20	Warning: 	File has moved from https://2014.guadec.org/sponsors/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fsponsors%2F
+00:49:20	Warning: 	Found for https://2014.guadec.org/sponsors/?share=reddit
+00:49:20	Warning: 	File has moved from https://2014.guadec.org/sponsors/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fsponsors%2F&title=Become%20a%20Sponsor
+00:49:21	Warning: 	Found for https://2014.guadec.org/sponsors/?share=twitter
+00:49:21	Warning: 	File has moved from https://2014.guadec.org/sponsors/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Become+a+Sponsor&url=https%3A%2F%2F2014.guadec.org%2Fsponsors%2F
+00:49:21	Warning: 	Found for https://2014.guadec.org/sponsors/?share=facebook
+00:49:21	Warning: 	File has moved from https://2014.guadec.org/sponsors/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fsponsors%2F&t=Become%20a%20Sponsor
+00:49:21	Error: 	"Not Found" (404) at link https://www.guadec.org/lodging/ (from https://2014.guadec.org/venue/)
+00:49:22	Warning: 	Found for https://2014.guadec.org/venue/?share=google-plus-1
+00:49:22	Warning: 	File has moved from https://2014.guadec.org/venue/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fvenue%2F
+00:49:22	Warning: 	Found for https://2014.guadec.org/venue/?share=reddit
+00:49:22	Warning: 	File has moved from https://2014.guadec.org/venue/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fvenue%2F&title=Venue
+00:49:22	Warning: 	Found for https://2014.guadec.org/venue/?share=twitter
+00:49:22	Warning: 	File has moved from https://2014.guadec.org/venue/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Venue&url=https%3A%2F%2F2014.guadec.org%2Fvenue%2F
+00:49:23	Warning: 	Found for https://2014.guadec.org/venue/?share=facebook
+00:49:23	Warning: 	File has moved from https://2014.guadec.org/venue/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fvenue%2F&t=Venue
+00:49:23	Warning: 	Found for https://2014.guadec.org/lodging/?share=google-plus-1
+00:49:23	Warning: 	File has moved from https://2014.guadec.org/lodging/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Flodging%2F
+00:49:23	Warning: 	Found for https://2014.guadec.org/lodging/?share=reddit
+00:49:23	Warning: 	File has moved from https://2014.guadec.org/lodging/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Flodging%2F&title=Accommodation
+00:49:23	Warning: 	Found for https://2014.guadec.org/lodging/?share=twitter
+00:49:23	Warning: 	File has moved from https://2014.guadec.org/lodging/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Accommodation&url=https%3A%2F%2F2014.guadec.org%2Flodging%2F
+00:49:23	Warning: 	Found for https://2014.guadec.org/lodging/?share=facebook
+00:49:23	Warning: 	File has moved from https://2014.guadec.org/lodging/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Flodging%2F&t=Accommodation
+00:49:26	Warning: 	Found for https://2014.guadec.org/map/?share=google-plus-1
+00:49:26	Warning: 	File has moved from https://2014.guadec.org/map/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fmap%2F
+00:49:26	Warning: 	Found for https://2014.guadec.org/map/?share=reddit
+00:49:26	Warning: 	File has moved from https://2014.guadec.org/map/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fmap%2F&title=Map
+00:49:27	Warning: 	Found for https://2014.guadec.org/map/?share=twitter
+00:49:27	Warning: 	File has moved from https://2014.guadec.org/map/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Map&url=https%3A%2F%2F2014.guadec.org%2Fmap%2F
+00:49:27	Warning: 	Found for https://2014.guadec.org/map/?share=facebook
+00:49:27	Warning: 	File has moved from https://2014.guadec.org/map/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fmap%2F&t=Map
+00:49:28	Warning: 	Found for https://2014.guadec.org/travel/?share=google-plus-1
+00:49:28	Warning: 	File has moved from https://2014.guadec.org/travel/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Ftravel%2F
+00:49:28	Warning: 	Found for https://2014.guadec.org/travel/?share=reddit
+00:49:28	Warning: 	File has moved from https://2014.guadec.org/travel/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Ftravel%2F&title=Travel
+00:49:28	Warning: 	Found for https://2014.guadec.org/travel/?share=twitter
+00:49:28	Warning: 	File has moved from https://2014.guadec.org/travel/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Travel&url=https%3A%2F%2F2014.guadec.org%2Ftravel%2F
+00:49:29	Warning: 	Found for https://2014.guadec.org/travel/?share=facebook
+00:49:29	Warning: 	File has moved from https://2014.guadec.org/travel/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Ftravel%2F&t=Travel
+00:49:29	Warning: 	Found for https://2014.guadec.org/patents-and-copyright-and-trademarks-oh-why/?share=google-plus-1
+00:49:29	Warning: 	File has moved from https://2014.guadec.org/patents-and-copyright-and-trademarks-oh-why/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fpatents-and-copyright-and-trademarks-oh-why%2F
+00:49:30	Warning: 	Found for https://2014.guadec.org/patents-and-copyright-and-trademarks-oh-why/?share=reddit
+00:49:30	Warning: 	File has moved from https://2014.guadec.org/patents-and-copyright-and-trademarks-oh-why/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fpatents-and-copyright-and-trademarks-oh-why%2F&title=Patents%20and%20Copyright%20and%20Trademarks...%20Oh%2C%20why%21%3F
+00:49:30	Warning: 	Found for https://2014.guadec.org/patents-and-copyright-and-trademarks-oh-why/?share=twitter
+00:49:30	Warning: 	File has moved from https://2014.guadec.org/patents-and-copyright-and-trademarks-oh-why/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Patents+and+Copyright+and+Trademarks...+Oh%2C+why%21%3F&url=https%3A%2F%2F2014.guadec.org%2Fpatents-and-copyright-and-trademarks-oh-why%2F
+00:49:30	Warning: 	Found for https://2014.guadec.org/patents-and-copyright-and-trademarks-oh-why/?share=facebook
+00:49:30	Warning: 	File has moved from https://2014.guadec.org/patents-and-copyright-and-trademarks-oh-why/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fpatents-and-copyright-and-trademarks-oh-why%2F&t=Patents%20and%20Copyright%20and%20Trademarks...%20Oh%2C%20why%21%3F
+00:49:31	Warning: 	Found for https://2014.guadec.org/whats-new-in-gstreamer/?share=google-plus-1
+00:49:31	Warning: 	File has moved from https://2014.guadec.org/whats-new-in-gstreamer/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fwhats-new-in-gstreamer%2F
+00:49:32	Warning: 	Found for https://2014.guadec.org/whats-new-in-gstreamer/?share=reddit
+00:49:32	Warning: 	File has moved from https://2014.guadec.org/whats-new-in-gstreamer/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fwhats-new-in-gstreamer%2F&title=What%27s%20new%20in%20GStreamer
+00:49:32	Warning: 	Found for https://2014.guadec.org/whats-new-in-gstreamer/?share=twitter
+00:49:32	Warning: 	File has moved from https://2014.guadec.org/whats-new-in-gstreamer/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=What%27s+new+in+GStreamer&url=https%3A%2F%2F2014.guadec.org%2Fwhats-new-in-gstreamer%2F
+00:49:32	Warning: 	Found for https://2014.guadec.org/whats-new-in-gstreamer/?share=facebook
+00:49:32	Warning: 	File has moved from https://2014.guadec.org/whats-new-in-gstreamer/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fwhats-new-in-gstreamer%2F&t=What%27s%20new%20in%20GStreamer
+00:49:33	Warning: 	Found for https://2014.guadec.org/a-sustainable-business-model-for-free-software/?share=google-plus-1
+00:49:33	Warning: 	File has moved from https://2014.guadec.org/a-sustainable-business-model-for-free-software/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fa-sustainable-business-model-for-free-software%2F
+00:49:33	Warning: 	Found for https://2014.guadec.org/a-sustainable-business-model-for-free-software/?share=reddit
+00:49:33	Warning: 	File has moved from https://2014.guadec.org/a-sustainable-business-model-for-free-software/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fa-sustainable-business-model-for-free-software%2F&title=A%20sustainable%20business%20model%20for%20free%20software%3F
+00:49:33	Warning: 	Found for https://2014.guadec.org/a-sustainable-business-model-for-free-software/?share=twitter
+00:49:33	Warning: 	File has moved from https://2014.guadec.org/a-sustainable-business-model-for-free-software/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=A+sustainable+business+model+for+free+software%3F&url=https%3A%2F%2F2014.guadec.org%2Fa-sustainable-business-model-for-free-software%2F
+00:49:33	Warning: 	Found for https://2014.guadec.org/a-sustainable-business-model-for-free-software/?share=facebook
+00:49:33	Warning: 	File has moved from https://2014.guadec.org/a-sustainable-business-model-for-free-software/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fa-sustainable-business-model-for-free-software%2F&t=A%20sustainable%20business%20model%20for%20free%20software%3F
+00:49:34	Warning: 	Found for https://2014.guadec.org/where-are-we-with-this-geo-awareness-dream/?share=google-plus-1
+00:49:34	Warning: 	File has moved from https://2014.guadec.org/where-are-we-with-this-geo-awareness-dream/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fwhere-are-we-with-this-geo-awareness-dream%2F
+00:49:34	Warning: 	Found for https://2014.guadec.org/where-are-we-with-this-geo-awareness-dream/?share=reddit
+00:49:34	Warning: 	File has moved from https://2014.guadec.org/where-are-we-with-this-geo-awareness-dream/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fwhere-are-we-with-this-geo-awareness-dream%2F&title=Where%20are%20we%20with%20this%20%E2%80%9Cgeo-awareness%E2%80%9D%20dream%3F
+00:49:34	Warning: 	Found for https://2014.guadec.org/where-are-we-with-this-geo-awareness-dream/?share=twitter
+00:49:34	Warning: 	File has moved from https://2014.guadec.org/where-are-we-with-this-geo-awareness-dream/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Where+are+we+with+this+%E2%80%9Cgeo-awareness%E2%80%9D+dream%3F&url=https%3A%2F%2F2014.guadec.org%2Fwhere-are-we-with-this-geo-awareness-dream%2F
+00:49:34	Warning: 	Found for https://2014.guadec.org/where-are-we-with-this-geo-awareness-dream/?share=facebook
+00:49:34	Warning: 	File has moved from https://2014.guadec.org/where-are-we-with-this-geo-awareness-dream/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fwhere-are-we-with-this-geo-awareness-dream%2F&t=Where%20are%20we%20with%20this%20%E2%80%9Cgeo-awareness%E2%80%9D%20dream%3F
+00:49:35	Warning: 	Found for https://2014.guadec.org/open-source-design-how-we-do-it-in-owncloud/?share=google-plus-1
+00:49:35	Warning: 	File has moved from https://2014.guadec.org/open-source-design-how-we-do-it-in-owncloud/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fopen-source-design-how-we-do-it-in-owncloud%2F
+00:49:35	Warning: 	Found for https://2014.guadec.org/open-source-design-how-we-do-it-in-owncloud/?share=reddit
+00:49:35	Warning: 	File has moved from https://2014.guadec.org/open-source-design-how-we-do-it-in-owncloud/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fopen-source-design-how-we-do-it-in-owncloud%2F&title=Open%20Source%20Design%20%E2%80%93%20how%20we%20do%20it%20in%20ownCloud
+00:49:35	Warning: 	Found for https://2014.guadec.org/open-source-design-how-we-do-it-in-owncloud/?share=twitter
+00:49:35	Warning: 	File has moved from https://2014.guadec.org/open-source-design-how-we-do-it-in-owncloud/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Open+Source+Design+%E2%80%93+how+we+do+it+in+ownCloud&url=https%3A%2F%2F2014.guadec.org%2Fopen-source-design-how-we-do-it-in-owncloud%2F
+00:49:35	Warning: 	Found for https://2014.guadec.org/open-source-design-how-we-do-it-in-owncloud/?share=facebook
+00:49:35	Warning: 	File has moved from https://2014.guadec.org/open-source-design-how-we-do-it-in-owncloud/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fopen-source-design-how-we-do-it-in-owncloud%2F&t=Open%20Source%20Design%20%E2%80%93%20how%20we%20do%20it%20in%20ownCloud
+00:49:36	Warning: 	Found for https://2014.guadec.org/gom-the-gobject-to-sqlite-datamapper/?share=google-plus-1
+00:49:36	Warning: 	File has moved from https://2014.guadec.org/gom-the-gobject-to-sqlite-datamapper/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fgom-the-gobject-to-sqlite-datamapper%2F
+00:49:36	Warning: 	Found for https://2014.guadec.org/gom-the-gobject-to-sqlite-datamapper/?share=reddit
+00:49:36	Warning: 	File has moved from https://2014.guadec.org/gom-the-gobject-to-sqlite-datamapper/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fgom-the-gobject-to-sqlite-datamapper%2F&title=GOM%2C%20the%20Gobject%20to%20SQLite%20DataMapper
+00:49:36	Warning: 	Found for https://2014.guadec.org/gom-the-gobject-to-sqlite-datamapper/?share=twitter
+00:49:36	Warning: 	File has moved from https://2014.guadec.org/gom-the-gobject-to-sqlite-datamapper/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=GOM%2C+the+Gobject+to+SQLite+DataMapper&url=https%3A%2F%2F2014.guadec.org%2Fgom-the-gobject-to-sqlite-datamapper%2F
+00:49:36	Warning: 	Found for https://2014.guadec.org/gom-the-gobject-to-sqlite-datamapper/?share=facebook
+00:49:36	Warning: 	File has moved from https://2014.guadec.org/gom-the-gobject-to-sqlite-datamapper/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fgom-the-gobject-to-sqlite-datamapper%2F&t=GOM%2C%20the%20Gobject%20to%20SQLite%20DataMapper
+00:49:37	Warning: 	Found for https://2014.guadec.org/how-to-be-an-ally-to-women-in-tech/?share=google-plus-1
+00:49:37	Warning: 	File has moved from https://2014.guadec.org/how-to-be-an-ally-to-women-in-tech/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fhow-to-be-an-ally-to-women-in-tech%2F
+00:49:37	Warning: 	Found for https://2014.guadec.org/how-to-be-an-ally-to-women-in-tech/?share=reddit
+00:49:37	Warning: 	File has moved from https://2014.guadec.org/how-to-be-an-ally-to-women-in-tech/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fhow-to-be-an-ally-to-women-in-tech%2F&title=How%20to%20be%20an%20ally%20to%20women%20in%20tech
+00:49:37	Warning: 	Found for https://2014.guadec.org/how-to-be-an-ally-to-women-in-tech/?share=twitter
+00:49:37	Warning: 	File has moved from https://2014.guadec.org/how-to-be-an-ally-to-women-in-tech/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=How+to+be+an+ally+to+women+in+tech&url=https%3A%2F%2F2014.guadec.org%2Fhow-to-be-an-ally-to-women-in-tech%2F
+00:49:37	Warning: 	Found for https://2014.guadec.org/how-to-be-an-ally-to-women-in-tech/?share=facebook
+00:49:37	Warning: 	File has moved from https://2014.guadec.org/how-to-be-an-ally-to-women-in-tech/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fhow-to-be-an-ally-to-women-in-tech%2F&t=How%20to%20be%20an%20ally%20to%20women%20in%20tech
+00:49:38	Warning: 	Found for https://2014.guadec.org/reusing-libreoffice-in-your-application/?share=google-plus-1
+00:49:38	Warning: 	File has moved from https://2014.guadec.org/reusing-libreoffice-in-your-application/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Freusing-libreoffice-in-your-application%2F
+00:49:38	Warning: 	Found for https://2014.guadec.org/reusing-libreoffice-in-your-application/?share=reddit
+00:49:38	Warning: 	File has moved from https://2014.guadec.org/reusing-libreoffice-in-your-application/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Freusing-libreoffice-in-your-application%2F&title=Reusing%20Libreoffice%20in%20your%20application
+00:49:38	Warning: 	Found for https://2014.guadec.org/reusing-libreoffice-in-your-application/?share=twitter
+00:49:38	Warning: 	File has moved from https://2014.guadec.org/reusing-libreoffice-in-your-application/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Reusing+Libreoffice+in+your+application&url=https%3A%2F%2F2014.guadec.org%2Freusing-libreoffice-in-your-application%2F
+00:49:38	Warning: 	Found for https://2014.guadec.org/reusing-libreoffice-in-your-application/?share=facebook
+00:49:38	Warning: 	File has moved from https://2014.guadec.org/reusing-libreoffice-in-your-application/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Freusing-libreoffice-in-your-application%2F&t=Reusing%20Libreoffice%20in%20your%20application
+00:49:39	Warning: 	Found for https://2014.guadec.org/pitivi-a-cutting-tool-at-the-bleeding-edge/?share=google-plus-1
+00:49:39	Warning: 	File has moved from https://2014.guadec.org/pitivi-a-cutting-tool-at-the-bleeding-edge/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fpitivi-a-cutting-tool-at-the-bleeding-edge%2F
+00:49:39	Warning: 	Found for https://2014.guadec.org/pitivi-a-cutting-tool-at-the-bleeding-edge/?share=reddit
+00:49:39	Warning: 	File has moved from https://2014.guadec.org/pitivi-a-cutting-tool-at-the-bleeding-edge/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fpitivi-a-cutting-tool-at-the-bleeding-edge%2F&title=Pitivi%3A%20a%20cutting%20tool%20at%20the%20bleeding%20edge
+00:49:39	Warning: 	Found for https://2014.guadec.org/pitivi-a-cutting-tool-at-the-bleeding-edge/?share=twitter
+00:49:39	Warning: 	File has moved from https://2014.guadec.org/pitivi-a-cutting-tool-at-the-bleeding-edge/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Pitivi%3A+a+cutting+tool+at+the+bleeding+edge&url=https%3A%2F%2F2014.guadec.org%2Fpitivi-a-cutting-tool-at-the-bleeding-edge%2F
+00:49:39	Warning: 	Found for https://2014.guadec.org/pitivi-a-cutting-tool-at-the-bleeding-edge/?share=facebook
+00:49:39	Warning: 	File has moved from https://2014.guadec.org/pitivi-a-cutting-tool-at-the-bleeding-edge/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fpitivi-a-cutting-tool-at-the-bleeding-edge%2F&t=Pitivi%3A%20a%20cutting%20tool%20at%20the%20bleeding%20edge
+00:49:40	Warning: 	Found for https://2014.guadec.org/virtual-machine-management-made-easy/?share=google-plus-1
+00:49:40	Warning: 	File has moved from https://2014.guadec.org/virtual-machine-management-made-easy/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fvirtual-machine-management-made-easy%2F
+00:49:40	Warning: 	Found for https://2014.guadec.org/virtual-machine-management-made-easy/?share=reddit
+00:49:40	Warning: 	File has moved from https://2014.guadec.org/virtual-machine-management-made-easy/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fvirtual-machine-management-made-easy%2F&title=Virtual%20machine%20management%20made%20easy
+00:49:40	Warning: 	Found for https://2014.guadec.org/virtual-machine-management-made-easy/?share=twitter
+00:49:40	Warning: 	File has moved from https://2014.guadec.org/virtual-machine-management-made-easy/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Virtual+machine+management+made+easy&url=https%3A%2F%2F2014.guadec.org%2Fvirtual-machine-management-made-easy%2F
+00:49:41	Warning: 	Found for https://2014.guadec.org/virtual-machine-management-made-easy/?share=facebook
+00:49:41	Warning: 	File has moved from https://2014.guadec.org/virtual-machine-management-made-easy/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fvirtual-machine-management-made-easy%2F&t=Virtual%20machine%20management%20made%20easy
+00:49:42	Warning: 	Found for https://2014.guadec.org/web-3-12-a-browser-to-make-us-proud/?share=google-plus-1
+00:49:42	Warning: 	File has moved from https://2014.guadec.org/web-3-12-a-browser-to-make-us-proud/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fweb-3-12-a-browser-to-make-us-proud%2F
+00:49:42	Warning: 	Found for https://2014.guadec.org/web-3-12-a-browser-to-make-us-proud/?share=reddit
+00:49:42	Warning: 	File has moved from https://2014.guadec.org/web-3-12-a-browser-to-make-us-proud/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fweb-3-12-a-browser-to-make-us-proud%2F&title=Web%203.12%3A%20A%20browser%20to%20make%20us%20proud
+00:49:42	Warning: 	Found for https://2014.guadec.org/web-3-12-a-browser-to-make-us-proud/?share=twitter
+00:49:42	Warning: 	File has moved from https://2014.guadec.org/web-3-12-a-browser-to-make-us-proud/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Web+3.12%3A+A+browser+to+make+us+proud&url=https%3A%2F%2F2014.guadec.org%2Fweb-3-12-a-browser-to-make-us-proud%2F
+00:49:42	Warning: 	Found for https://2014.guadec.org/web-3-12-a-browser-to-make-us-proud/?share=facebook
+00:49:42	Warning: 	File has moved from https://2014.guadec.org/web-3-12-a-browser-to-make-us-proud/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fweb-3-12-a-browser-to-make-us-proud%2F&t=Web%203.12%3A%20A%20browser%20to%20make%20us%20proud
+00:49:43	Warning: 	Found for https://2014.guadec.org/corebird-a-twitter-clients-open-source-journey-through-gnome-land/?share=google-plus-1
+00:49:43	Warning: 	File has moved from https://2014.guadec.org/corebird-a-twitter-clients-open-source-journey-through-gnome-land/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fcorebird-a-twitter-clients-open-source-journey-through-gnome-land%2F
+00:49:43	Warning: 	Found for https://2014.guadec.org/corebird-a-twitter-clients-open-source-journey-through-gnome-land/?share=reddit
+00:49:43	Warning: 	File has moved from https://2014.guadec.org/corebird-a-twitter-clients-open-source-journey-through-gnome-land/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fcorebird-a-twitter-clients-open-source-journey-through-gnome-land%2F&title=Corebird%3A%20A%20Twitter%20client%27s%20open%20source%20journey%20through%20Gnome%20land
+00:49:43	Warning: 	Found for https://2014.guadec.org/corebird-a-twitter-clients-open-source-journey-through-gnome-land/?share=twitter
+00:49:43	Warning: 	File has moved from https://2014.guadec.org/corebird-a-twitter-clients-open-source-journey-through-gnome-land/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Corebird%3A+A+Twitter+client%27s+open+source+journey+through+Gnome+land&url=https%3A%2F%2F2014.guadec.org%2Fcorebird-a-twitter-clients-open-source-journey-through-gnome-land%2F
+00:49:43	Warning: 	Found for https://2014.guadec.org/corebird-a-twitter-clients-open-source-journey-through-gnome-land/?share=facebook
+00:49:43	Warning: 	File has moved from https://2014.guadec.org/corebird-a-twitter-clients-open-source-journey-through-gnome-land/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fcorebird-a-twitter-clients-open-source-journey-through-gnome-land%2F&t=Corebird%3A%20A%20Twitter%20client%27s%20open%20source%20journey%20through%20Gnome%20land
+00:49:44	Warning: 	Found for https://2014.guadec.org/boxes-all-packed-ready-to-go/?share=google-plus-1
+00:49:44	Warning: 	File has moved from https://2014.guadec.org/boxes-all-packed-ready-to-go/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fboxes-all-packed-ready-to-go%2F
+00:49:44	Warning: 	Found for https://2014.guadec.org/boxes-all-packed-ready-to-go/?share=reddit
+00:49:44	Warning: 	File has moved from https://2014.guadec.org/boxes-all-packed-ready-to-go/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fboxes-all-packed-ready-to-go%2F&title=Boxes%3A%20All%20packed%20%26%20ready%20to%20go%3F
+00:49:44	Warning: 	Found for https://2014.guadec.org/boxes-all-packed-ready-to-go/?share=twitter
+00:49:44	Warning: 	File has moved from https://2014.guadec.org/boxes-all-packed-ready-to-go/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Boxes%3A+All+packed+%26+ready+to+go%3F&url=https%3A%2F%2F2014.guadec.org%2Fboxes-all-packed-ready-to-go%2F
+00:49:44	Warning: 	Found for https://2014.guadec.org/boxes-all-packed-ready-to-go/?share=facebook
+00:49:44	Warning: 	File has moved from https://2014.guadec.org/boxes-all-packed-ready-to-go/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fboxes-all-packed-ready-to-go%2F&t=Boxes%3A%20All%20packed%20%26%20ready%20to%20go%3F
+00:49:44	Warning: 	Found for https://2014.guadec.org/sdaps-easy-to-use-paper-surveying-tool-for-gnome/?share=google-plus-1
+00:49:44	Warning: 	File has moved from https://2014.guadec.org/sdaps-easy-to-use-paper-surveying-tool-for-gnome/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fsdaps-easy-to-use-paper-surveying-tool-for-gnome%2F
+00:49:45	Warning: 	Found for https://2014.guadec.org/sdaps-easy-to-use-paper-surveying-tool-for-gnome/?share=reddit
+00:49:45	Warning: 	File has moved from https://2014.guadec.org/sdaps-easy-to-use-paper-surveying-tool-for-gnome/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fsdaps-easy-to-use-paper-surveying-tool-for-gnome%2F&title=SDAPS%3A%20Easy%20to%20use%20paper%20surveying%20tool%20for%20GNOME
+00:49:45	Warning: 	Found for https://2014.guadec.org/sdaps-easy-to-use-paper-surveying-tool-for-gnome/?share=twitter
+00:49:45	Warning: 	File has moved from https://2014.guadec.org/sdaps-easy-to-use-paper-surveying-tool-for-gnome/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=SDAPS%3A+Easy+to+use+paper+surveying+tool+for+GNOME&url=https%3A%2F%2F2014.guadec.org%2Fsdaps-easy-to-use-paper-surveying-tool-for-gnome%2F
+00:49:45	Warning: 	Found for https://2014.guadec.org/sdaps-easy-to-use-paper-surveying-tool-for-gnome/?share=facebook
+00:49:45	Warning: 	File has moved from https://2014.guadec.org/sdaps-easy-to-use-paper-surveying-tool-for-gnome/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fsdaps-easy-to-use-paper-surveying-tool-for-gnome%2F&t=SDAPS%3A%20Easy%20to%20use%20paper%20surveying%20tool%20for%20GNOME
+00:49:45	Warning: 	Found for https://2014.guadec.org/documents-and-photos-a-content-application-update/?share=google-plus-1
+00:49:45	Warning: 	File has moved from https://2014.guadec.org/documents-and-photos-a-content-application-update/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fdocuments-and-photos-a-content-application-update%2F
+00:49:46	Warning: 	Found for https://2014.guadec.org/documents-and-photos-a-content-application-update/?share=reddit
+00:49:46	Warning: 	File has moved from https://2014.guadec.org/documents-and-photos-a-content-application-update/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fdocuments-and-photos-a-content-application-update%2F&title=Documents%20and%20Photos%3A%20a%20content%20application%20update
+00:49:46	Warning: 	Found for https://2014.guadec.org/documents-and-photos-a-content-application-update/?share=twitter
+00:49:46	Warning: 	File has moved from https://2014.guadec.org/documents-and-photos-a-content-application-update/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Documents+and+Photos%3A+a+content+application+update&url=https%3A%2F%2F2014.guadec.org%2Fdocuments-and-photos-a-content-application-update%2F
+00:49:46	Warning: 	Found for https://2014.guadec.org/documents-and-photos-a-content-application-update/?share=facebook
+00:49:46	Warning: 	File has moved from https://2014.guadec.org/documents-and-photos-a-content-application-update/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fdocuments-and-photos-a-content-application-update%2F&t=Documents%20and%20Photos%3A%20a%20content%20application%20update
+00:49:46	Warning: 	Found for https://2014.guadec.org/fleet-commander-making-gnome-3-shine-on-large-deployments/?share=google-plus-1
+00:49:46	Warning: 	File has moved from https://2014.guadec.org/fleet-commander-making-gnome-3-shine-on-large-deployments/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Ffleet-commander-making-gnome-3-shine-on-large-deployments%2F
+00:49:47	Warning: 	Found for https://2014.guadec.org/fleet-commander-making-gnome-3-shine-on-large-deployments/?share=reddit
+00:49:47	Warning: 	File has moved from https://2014.guadec.org/fleet-commander-making-gnome-3-shine-on-large-deployments/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Ffleet-commander-making-gnome-3-shine-on-large-deployments%2F&title=Fleet%20Commander%3A%20Making%20GNOME%203%20shine%20on%20large%20deployments
+00:49:47	Warning: 	Found for https://2014.guadec.org/fleet-commander-making-gnome-3-shine-on-large-deployments/?share=twitter
+00:49:47	Warning: 	File has moved from https://2014.guadec.org/fleet-commander-making-gnome-3-shine-on-large-deployments/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Fleet+Commander%3A+Making+GNOME+3+shine+on+large+deployments&url=https%3A%2F%2F2014.guadec.org%2Ffleet-commander-making-gnome-3-shine-on-large-deployments%2F
+00:49:47	Warning: 	Found for https://2014.guadec.org/fleet-commander-making-gnome-3-shine-on-large-deployments/?share=facebook
+00:49:47	Warning: 	File has moved from https://2014.guadec.org/fleet-commander-making-gnome-3-shine-on-large-deployments/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Ffleet-commander-making-gnome-3-shine-on-large-deployments%2F&t=Fleet%20Commander%3A%20Making%20GNOME%203%20shine%20on%20large%20deployments
+00:49:47	Warning: 	Found for https://2014.guadec.org/documentation-state-of-the-union/?share=google-plus-1
+00:49:47	Warning: 	File has moved from https://2014.guadec.org/documentation-state-of-the-union/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fdocumentation-state-of-the-union%2F
+00:49:48	Warning: 	Found for https://2014.guadec.org/documentation-state-of-the-union/?share=reddit
+00:49:48	Warning: 	File has moved from https://2014.guadec.org/documentation-state-of-the-union/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fdocumentation-state-of-the-union%2F&title=Documentation%3A%20state%20of%20the%20union
+00:49:48	Warning: 	Found for https://2014.guadec.org/documentation-state-of-the-union/?share=twitter
+00:49:48	Warning: 	File has moved from https://2014.guadec.org/documentation-state-of-the-union/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Documentation%3A+state+of+the+union&url=https%3A%2F%2F2014.guadec.org%2Fdocumentation-state-of-the-union%2F
+00:49:48	Warning: 	Found for https://2014.guadec.org/documentation-state-of-the-union/?share=facebook
+00:49:48	Warning: 	File has moved from https://2014.guadec.org/documentation-state-of-the-union/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fdocumentation-state-of-the-union%2F&t=Documentation%3A%20state%20of%20the%20union
+00:49:48	Warning: 	Found for https://2014.guadec.org/gtk-dialogs-the-hig-and-you/?share=google-plus-1
+00:49:48	Warning: 	File has moved from https://2014.guadec.org/gtk-dialogs-the-hig-and-you/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fgtk-dialogs-the-hig-and-you%2F
+00:49:49	Warning: 	Found for https://2014.guadec.org/gtk-dialogs-the-hig-and-you/?share=reddit
+00:49:49	Warning: 	File has moved from https://2014.guadec.org/gtk-dialogs-the-hig-and-you/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fgtk-dialogs-the-hig-and-you%2F&title=GTK%2B%2C%20dialogs%2C%20the%20HIG%20and%20you
+00:49:49	Warning: 	Found for https://2014.guadec.org/gtk-dialogs-the-hig-and-you/?share=twitter
+00:49:49	Warning: 	File has moved from https://2014.guadec.org/gtk-dialogs-the-hig-and-you/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=GTK%2B%2C+dialogs%2C+the+HIG+and+you&url=https%3A%2F%2F2014.guadec.org%2Fgtk-dialogs-the-hig-and-you%2F
+00:49:49	Warning: 	Found for https://2014.guadec.org/gtk-dialogs-the-hig-and-you/?share=facebook
+00:49:49	Warning: 	File has moved from https://2014.guadec.org/gtk-dialogs-the-hig-and-you/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fgtk-dialogs-the-hig-and-you%2F&t=GTK%2B%2C%20dialogs%2C%20the%20HIG%20and%20you
+00:49:50	Warning: 	Found for https://2014.guadec.org/lessons-learned-as-gnome-executive-director/?share=google-plus-1
+00:49:50	Warning: 	File has moved from https://2014.guadec.org/lessons-learned-as-gnome-executive-director/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Flessons-learned-as-gnome-executive-director%2F
+00:49:50	Warning: 	Found for https://2014.guadec.org/lessons-learned-as-gnome-executive-director/?share=reddit
+00:49:50	Warning: 	File has moved from https://2014.guadec.org/lessons-learned-as-gnome-executive-director/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Flessons-learned-as-gnome-executive-director%2F&title=Lessons%20learned%20as%20GNOME%20Executive%20Director
+00:49:50	Warning: 	Found for https://2014.guadec.org/lessons-learned-as-gnome-executive-director/?share=twitter
+00:49:50	Warning: 	File has moved from https://2014.guadec.org/lessons-learned-as-gnome-executive-director/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Lessons+learned+as+GNOME+Executive+Director&url=https%3A%2F%2F2014.guadec.org%2Flessons-learned-as-gnome-executive-director%2F
+00:49:50	Warning: 	Found for https://2014.guadec.org/lessons-learned-as-gnome-executive-director/?share=facebook
+00:49:50	Warning: 	File has moved from https://2014.guadec.org/lessons-learned-as-gnome-executive-director/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Flessons-learned-as-gnome-executive-director%2F&t=Lessons%20learned%20as%20GNOME%20Executive%20Director
+00:49:51	Warning: 	Found for https://2014.guadec.org/the-gtk-scene-graph-tool-kit/?share=google-plus-1
+00:49:51	Warning: 	File has moved from https://2014.guadec.org/the-gtk-scene-graph-tool-kit/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fthe-gtk-scene-graph-tool-kit%2F
+00:49:51	Warning: 	Found for https://2014.guadec.org/the-gtk-scene-graph-tool-kit/?share=reddit
+00:49:51	Warning: 	File has moved from https://2014.guadec.org/the-gtk-scene-graph-tool-kit/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fthe-gtk-scene-graph-tool-kit%2F&title=The%20GTK%2B%20scene%20graph%20tool%20kit
+00:49:52	Warning: 	Found for https://2014.guadec.org/the-gtk-scene-graph-tool-kit/?share=twitter
+00:49:52	Warning: 	File has moved from https://2014.guadec.org/the-gtk-scene-graph-tool-kit/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=The+GTK%2B+scene+graph+tool+kit&url=https%3A%2F%2F2014.guadec.org%2Fthe-gtk-scene-graph-tool-kit%2F
+00:49:52	Warning: 	Found for https://2014.guadec.org/the-gtk-scene-graph-tool-kit/?share=facebook
+00:49:52	Warning: 	File has moved from https://2014.guadec.org/the-gtk-scene-graph-tool-kit/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fthe-gtk-scene-graph-tool-kit%2F&t=The%20GTK%2B%20scene%20graph%20tool%20kit
+00:49:52	Warning: 	Found for https://2014.guadec.org/gpg-ssh-and-identity-for-beginners/?share=google-plus-1
+00:49:52	Warning: 	File has moved from https://2014.guadec.org/gpg-ssh-and-identity-for-beginners/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fgpg-ssh-and-identity-for-beginners%2F
+00:49:53	Warning: 	Found for https://2014.guadec.org/gpg-ssh-and-identity-for-beginners/?share=reddit
+00:49:53	Warning: 	File has moved from https://2014.guadec.org/gpg-ssh-and-identity-for-beginners/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fgpg-ssh-and-identity-for-beginners%2F&title=GPG%2C%20SSH%2C%20and%20identity%20for%20beginners
+00:49:53	Warning: 	Found for https://2014.guadec.org/gpg-ssh-and-identity-for-beginners/?share=twitter
+00:49:53	Warning: 	File has moved from https://2014.guadec.org/gpg-ssh-and-identity-for-beginners/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=GPG%2C+SSH%2C+and+identity+for+beginners&url=https%3A%2F%2F2014.guadec.org%2Fgpg-ssh-and-identity-for-beginners%2F
+00:50:02	Warning: 	Found for https://2014.guadec.org/gpg-ssh-and-identity-for-beginners/?share=facebook
+00:50:02	Warning: 	File has moved from https://2014.guadec.org/gpg-ssh-and-identity-for-beginners/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fgpg-ssh-and-identity-for-beginners%2F&t=GPG%2C%20SSH%2C%20and%20identity%20for%20beginners
+00:50:02	Warning: 	Found for https://2014.guadec.org/gtk-and-css/?share=google-plus-1
+00:50:02	Warning: 	File has moved from https://2014.guadec.org/gtk-and-css/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fgtk-and-css%2F
+00:50:09	Warning: 	Found for https://2014.guadec.org/gtk-and-css/?share=reddit
+00:50:09	Warning: 	File has moved from https://2014.guadec.org/gtk-and-css/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fgtk-and-css%2F&title=GTK%20and%20CSS
+00:50:09	Warning: 	Found for https://2014.guadec.org/gtk-and-css/?share=twitter
+00:50:09	Warning: 	File has moved from https://2014.guadec.org/gtk-and-css/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=GTK+and+CSS&url=https%3A%2F%2F2014.guadec.org%2Fgtk-and-css%2F
+00:50:10	Warning: 	Found for https://2014.guadec.org/gtk-and-css/?share=facebook
+00:50:10	Warning: 	File has moved from https://2014.guadec.org/gtk-and-css/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fgtk-and-css%2F&t=GTK%20and%20CSS
+00:50:10	Warning: 	Found for https://2014.guadec.org/gnome-infrastructure-authentication-evolved/?share=google-plus-1
+00:50:10	Warning: 	File has moved from https://2014.guadec.org/gnome-infrastructure-authentication-evolved/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fgnome-infrastructure-authentication-evolved%2F
+00:50:11	Warning: 	Found for https://2014.guadec.org/gnome-infrastructure-authentication-evolved/?share=reddit
+00:50:11	Warning: 	File has moved from https://2014.guadec.org/gnome-infrastructure-authentication-evolved/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fgnome-infrastructure-authentication-evolved%2F&title=GNOME%20Infrastructure%3A%20Authentication%20Evolved
+00:50:11	Warning: 	Found for https://2014.guadec.org/gnome-infrastructure-authentication-evolved/?share=twitter
+00:50:11	Warning: 	File has moved from https://2014.guadec.org/gnome-infrastructure-authentication-evolved/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=GNOME+Infrastructure%3A+Authentication+Evolved&url=https%3A%2F%2F2014.guadec.org%2Fgnome-infrastructure-authentication-evolved%2F
+00:50:12	Warning: 	Found for https://2014.guadec.org/gnome-infrastructure-authentication-evolved/?share=facebook
+00:50:12	Warning: 	File has moved from https://2014.guadec.org/gnome-infrastructure-authentication-evolved/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fgnome-infrastructure-authentication-evolved%2F&t=GNOME%20Infrastructure%3A%20Authentication%20Evolved
+00:50:12	Warning: 	Found for https://2014.guadec.org/gnome-and-wayland/?share=google-plus-1
+00:50:12	Warning: 	File has moved from https://2014.guadec.org/gnome-and-wayland/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fgnome-and-wayland%2F
+00:50:13	Warning: 	Found for https://2014.guadec.org/gnome-and-wayland/?share=reddit
+00:50:13	Warning: 	File has moved from https://2014.guadec.org/gnome-and-wayland/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fgnome-and-wayland%2F&title=GNOME%20and%20Wayland
+00:50:13	Warning: 	Found for https://2014.guadec.org/gnome-and-wayland/?share=twitter
+00:50:13	Warning: 	File has moved from https://2014.guadec.org/gnome-and-wayland/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=GNOME+and+Wayland&url=https%3A%2F%2F2014.guadec.org%2Fgnome-and-wayland%2F
+00:50:13	Warning: 	Found for https://2014.guadec.org/gnome-and-wayland/?share=facebook
+00:50:13	Warning: 	File has moved from https://2014.guadec.org/gnome-and-wayland/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fgnome-and-wayland%2F&t=GNOME%20and%20Wayland
+00:50:13	Warning: 	Found for https://2014.guadec.org/where-has-all-the-python-gone/?share=google-plus-1
+00:50:13	Warning: 	File has moved from https://2014.guadec.org/where-has-all-the-python-gone/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fwhere-has-all-the-python-gone%2F
+00:50:14	Warning: 	Found for https://2014.guadec.org/where-has-all-the-python-gone/?share=reddit
+00:50:14	Warning: 	File has moved from https://2014.guadec.org/where-has-all-the-python-gone/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fwhere-has-all-the-python-gone%2F&title=Where%20has%20all%20the%20Python%20gone%3F
+00:50:14	Warning: 	Found for https://2014.guadec.org/where-has-all-the-python-gone/?share=twitter
+00:50:14	Warning: 	File has moved from https://2014.guadec.org/where-has-all-the-python-gone/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Where+has+all+the+Python+gone%3F&url=https%3A%2F%2F2014.guadec.org%2Fwhere-has-all-the-python-gone%2F
+00:50:14	Warning: 	Found for https://2014.guadec.org/where-has-all-the-python-gone/?share=facebook
+00:50:14	Warning: 	File has moved from https://2014.guadec.org/where-has-all-the-python-gone/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fwhere-has-all-the-python-gone%2F&t=Where%20has%20all%20the%20Python%20gone%3F
+00:50:14	Warning: 	Found for https://2014.guadec.org/wayland-support-in-webkit2gtk/?share=google-plus-1
+00:50:14	Warning: 	File has moved from https://2014.guadec.org/wayland-support-in-webkit2gtk/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fwayland-support-in-webkit2gtk%2F
+00:50:14	Warning: 	Found for https://2014.guadec.org/wayland-support-in-webkit2gtk/?share=reddit
+00:50:14	Warning: 	File has moved from https://2014.guadec.org/wayland-support-in-webkit2gtk/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fwayland-support-in-webkit2gtk%2F&title=Wayland%20support%20in%20WebKit2GTK%2B
+00:50:15	Warning: 	Found for https://2014.guadec.org/wayland-support-in-webkit2gtk/?share=twitter
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/wayland-support-in-webkit2gtk/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Wayland+support+in+WebKit2GTK%2B&url=https%3A%2F%2F2014.guadec.org%2Fwayland-support-in-webkit2gtk%2F
+00:50:15	Warning: 	Found for https://2014.guadec.org/wayland-support-in-webkit2gtk/?share=facebook
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/wayland-support-in-webkit2gtk/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fwayland-support-in-webkit2gtk%2F&t=Wayland%20support%20in%20WebKit2GTK%2B
+00:50:15	Warning: 	Found for https://2014.guadec.org/hardware-integration-the-gnome-way/?share=google-plus-1
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/hardware-integration-the-gnome-way/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fhardware-integration-the-gnome-way%2F
+00:50:15	Warning: 	Found for https://2014.guadec.org/hardware-integration-the-gnome-way/?share=reddit
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/hardware-integration-the-gnome-way/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fhardware-integration-the-gnome-way%2F&title=Hardware%20integration%2C%20the%20GNOME%20way
+00:50:15	Warning: 	Found for https://2014.guadec.org/hardware-integration-the-gnome-way/?share=twitter
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/hardware-integration-the-gnome-way/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Hardware+integration%2C+the+GNOME+way&url=https%3A%2F%2F2014.guadec.org%2Fhardware-integration-the-gnome-way%2F
+00:50:15	Warning: 	Found for https://2014.guadec.org/hardware-integration-the-gnome-way/?share=facebook
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/hardware-integration-the-gnome-way/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fhardware-integration-the-gnome-way%2F&t=Hardware%20integration%2C%20the%20GNOME%20way
+00:50:15	Warning: 	Found for https://2014.guadec.org/gnome-ux-the-social-dimension/?share=google-plus-1
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/gnome-ux-the-social-dimension/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fgnome-ux-the-social-dimension%2F
+00:50:15	Warning: 	Found for https://2014.guadec.org/gnome-ux-the-social-dimension/?share=reddit
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/gnome-ux-the-social-dimension/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fgnome-ux-the-social-dimension%2F&title=GNOME%20UX%3A%20The%20Social%20Dimension
+00:50:15	Warning: 	Found for https://2014.guadec.org/gnome-ux-the-social-dimension/?share=twitter
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/gnome-ux-the-social-dimension/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=GNOME+UX%3A+The+Social+Dimension&url=https%3A%2F%2F2014.guadec.org%2Fgnome-ux-the-social-dimension%2F
+00:50:15	Warning: 	Found for https://2014.guadec.org/gnome-ux-the-social-dimension/?share=facebook
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/gnome-ux-the-social-dimension/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fgnome-ux-the-social-dimension%2F&t=GNOME%20UX%3A%20The%20Social%20Dimension
+00:50:15	Warning: 	Found for https://2014.guadec.org/continuous-integration-performance-testing-on-actual-hardware/?share=google-plus-1
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/continuous-integration-performance-testing-on-actual-hardware/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fcontinuous-integration-performance-testing-on-actual-hardware%2F
+00:50:15	Warning: 	Found for https://2014.guadec.org/continuous-integration-performance-testing-on-actual-hardware/?share=reddit
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/continuous-integration-performance-testing-on-actual-hardware/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fcontinuous-integration-performance-testing-on-actual-hardware%2F&title=Continuous%20Integration%20Performance%20Testing%20on%20Actual%20Hardware
+00:50:15	Warning: 	Found for https://2014.guadec.org/continuous-integration-performance-testing-on-actual-hardware/?share=twitter
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/continuous-integration-performance-testing-on-actual-hardware/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Continuous+Integration+Performance+Testing+on+Actual+Hardware&url=https%3A%2F%2F2014.guadec.org%2Fcontinuous-integration-performance-testing-on-actual-hardware%2F
+00:50:15	Warning: 	Found for https://2014.guadec.org/continuous-integration-performance-testing-on-actual-hardware/?share=facebook
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/continuous-integration-performance-testing-on-actual-hardware/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fcontinuous-integration-performance-testing-on-actual-hardware%2F&t=Continuous%20Integration%20Performance%20Testing%20on%20Actual%20Hardware
+00:50:15	Warning: 	Found for https://2014.guadec.org/gnome-outreach-a-report-from-the-war-nobody-is-participating-in/?share=google-plus-1
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/gnome-outreach-a-report-from-the-war-nobody-is-participating-in/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fgnome-outreach-a-report-from-the-war-nobody-is-participating-in%2F
+00:50:15	Warning: 	Found for https://2014.guadec.org/gnome-outreach-a-report-from-the-war-nobody-is-participating-in/?share=reddit
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/gnome-outreach-a-report-from-the-war-nobody-is-participating-in/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fgnome-outreach-a-report-from-the-war-nobody-is-participating-in%2F&title=GNOME%20Outreach%20-%20A%20report%20from%20the%20War%20nobody%20is%20participating%20in
+00:50:15	Warning: 	Found for https://2014.guadec.org/gnome-outreach-a-report-from-the-war-nobody-is-participating-in/?share=twitter
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/gnome-outreach-a-report-from-the-war-nobody-is-participating-in/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=GNOME+Outreach+-+A+report+from+the+War+nobody+is+participating+in&url=https%3A%2F%2F2014.guadec.org%2Fgnome-outreach-a-report-from-the-war-nobody-is-participating-in%2F
+00:50:15	Warning: 	Found for https://2014.guadec.org/gnome-outreach-a-report-from-the-war-nobody-is-participating-in/?share=facebook
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/gnome-outreach-a-report-from-the-war-nobody-is-participating-in/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fgnome-outreach-a-report-from-the-war-nobody-is-participating-in%2F&t=GNOME%20Outreach%20-%20A%20report%20from%20the%20War%20nobody%20is%20participating%20in
+00:50:15	Warning: 	Found for https://2014.guadec.org/cheese-tng-less-libcheese-more-d-bus/?share=google-plus-1
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/cheese-tng-less-libcheese-more-d-bus/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fcheese-tng-less-libcheese-more-d-bus%2F
+00:50:15	Warning: 	Found for https://2014.guadec.org/cheese-tng-less-libcheese-more-d-bus/?share=reddit
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/cheese-tng-less-libcheese-more-d-bus/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fcheese-tng-less-libcheese-more-d-bus%2F&title=Cheese%3A%20TNG%20%28less%20libcheese%2C%20more%20D-Bus%29
+00:50:15	Warning: 	Found for https://2014.guadec.org/cheese-tng-less-libcheese-more-d-bus/?share=twitter
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/cheese-tng-less-libcheese-more-d-bus/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Cheese%3A+TNG+%28less+libcheese%2C+more+D-Bus%29&url=https%3A%2F%2F2014.guadec.org%2Fcheese-tng-less-libcheese-more-d-bus%2F
+00:50:15	Warning: 	Found for https://2014.guadec.org/cheese-tng-less-libcheese-more-d-bus/?share=facebook
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/cheese-tng-less-libcheese-more-d-bus/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fcheese-tng-less-libcheese-more-d-bus%2F&t=Cheese%3A%20TNG%20%28less%20libcheese%2C%20more%20D-Bus%29
+00:50:15	Warning: 	Found for https://2014.guadec.org/flow-based-programming-in-the-gnome-environment/?share=google-plus-1
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/flow-based-programming-in-the-gnome-environment/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fflow-based-programming-in-the-gnome-environment%2F
+00:50:15	Warning: 	Found for https://2014.guadec.org/flow-based-programming-in-the-gnome-environment/?share=reddit
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/flow-based-programming-in-the-gnome-environment/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fflow-based-programming-in-the-gnome-environment%2F&title=Flow%20based%20programming%20in%20the%20Gnome%20environment
+00:50:15	Warning: 	Found for https://2014.guadec.org/flow-based-programming-in-the-gnome-environment/?share=twitter
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/flow-based-programming-in-the-gnome-environment/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Flow+based+programming+in+the+Gnome+environment&url=https%3A%2F%2F2014.guadec.org%2Fflow-based-programming-in-the-gnome-environment%2F
+00:50:15	Warning: 	Found for https://2014.guadec.org/flow-based-programming-in-the-gnome-environment/?share=facebook
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/flow-based-programming-in-the-gnome-environment/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fflow-based-programming-in-the-gnome-environment%2F&t=Flow%20based%20programming%20in%20the%20Gnome%20environment
+00:50:15	Warning: 	Found for https://2014.guadec.org/next-generation-input-methods/?share=google-plus-1
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/next-generation-input-methods/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fnext-generation-input-methods%2F
+00:50:15	Warning: 	Found for https://2014.guadec.org/next-generation-input-methods/?share=reddit
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/next-generation-input-methods/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fnext-generation-input-methods%2F&title=Next%20generation%20input%20methods
+00:50:15	Warning: 	Found for https://2014.guadec.org/next-generation-input-methods/?share=twitter
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/next-generation-input-methods/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Next+generation+input+methods&url=https%3A%2F%2F2014.guadec.org%2Fnext-generation-input-methods%2F
+00:50:15	Warning: 	Found for https://2014.guadec.org/next-generation-input-methods/?share=facebook
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/next-generation-input-methods/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fnext-generation-input-methods%2F&t=Next%20generation%20input%20methods
+00:50:15	Warning: 	Found for https://2014.guadec.org/builder-a-new-ide-for-gnome/?share=google-plus-1
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/builder-a-new-ide-for-gnome/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fbuilder-a-new-ide-for-gnome%2F
+00:50:15	Warning: 	Found for https://2014.guadec.org/builder-a-new-ide-for-gnome/?share=reddit
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/builder-a-new-ide-for-gnome/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fbuilder-a-new-ide-for-gnome%2F&title=Builder%2C%20a%20new%20IDE%20for%20GNOME
+00:50:15	Warning: 	Found for https://2014.guadec.org/builder-a-new-ide-for-gnome/?share=twitter
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/builder-a-new-ide-for-gnome/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Builder%2C+a+new+IDE+for+GNOME&url=https%3A%2F%2F2014.guadec.org%2Fbuilder-a-new-ide-for-gnome%2F
+00:50:15	Warning: 	Found for https://2014.guadec.org/builder-a-new-ide-for-gnome/?share=facebook
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/builder-a-new-ide-for-gnome/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fbuilder-a-new-ide-for-gnome%2F&t=Builder%2C%20a%20new%20IDE%20for%20GNOME
+00:50:15	Warning: 	Found for https://2014.guadec.org/the-call-for-presentations-period-is-now-over/?share=google-plus-1
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/the-call-for-presentations-period-is-now-over/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fthe-call-for-presentations-period-is-now-over%2F
+00:50:15	Warning: 	Found for https://2014.guadec.org/the-call-for-presentations-period-is-now-over/?share=reddit
+00:50:15	Warning: 	File has moved from https://2014.guadec.org/the-call-for-presentations-period-is-now-over/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fthe-call-for-presentations-period-is-now-over%2F&title=The%20Call%20for%20Presentations%20period%20is%20now%20over
+00:50:16	Warning: 	Found for https://2014.guadec.org/the-call-for-presentations-period-is-now-over/?share=twitter
+00:50:16	Warning: 	File has moved from https://2014.guadec.org/the-call-for-presentations-period-is-now-over/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=The+Call+for+Presentations+period+is+now+over&url=https%3A%2F%2F2014.guadec.org%2Fthe-call-for-presentations-period-is-now-over%2F
+00:50:16	Warning: 	Found for https://2014.guadec.org/the-call-for-presentations-period-is-now-over/?share=facebook
+00:50:16	Warning: 	File has moved from https://2014.guadec.org/the-call-for-presentations-period-is-now-over/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fthe-call-for-presentations-period-is-now-over%2F&t=The%20Call%20for%20Presentations%20period%20is%20now%20over
+00:50:18	Warning: 	Found for https://2014.guadec.org/talks-available-to-view-online/?share=google-plus-1
+00:50:18	Warning: 	File has moved from https://2014.guadec.org/talks-available-to-view-online/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Ftalks-available-to-view-online%2F
+00:50:18	Warning: 	Found for https://2014.guadec.org/talks-available-to-view-online/?share=reddit
+00:50:18	Warning: 	File has moved from https://2014.guadec.org/talks-available-to-view-online/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Ftalks-available-to-view-online%2F&title=Talks%20Available%20to%20View%20Online
+00:50:18	Warning: 	Found for https://2014.guadec.org/talks-available-to-view-online/?share=twitter
+00:50:18	Warning: 	File has moved from https://2014.guadec.org/talks-available-to-view-online/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Talks+Available+to+View+Online&url=https%3A%2F%2F2014.guadec.org%2Ftalks-available-to-view-online%2F
+00:50:18	Warning: 	Found for https://2014.guadec.org/talks-available-to-view-online/?share=facebook
+00:50:18	Warning: 	File has moved from https://2014.guadec.org/talks-available-to-view-online/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Ftalks-available-to-view-online%2F&t=Talks%20Available%20to%20View%20Online
+00:50:20	Error: 	"Not Found" (404) at link https://www.guadec.org/schedule/ (from https://2014.guadec.org/author/fabiana/page/2/)
+00:50:20	Warning: 	Found for https://2014.guadec.org/guadec-2013-program-published/?share=google-plus-1
+00:50:20	Warning: 	File has moved from https://2014.guadec.org/guadec-2013-program-published/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fguadec-2013-program-published%2F
+00:50:20	Warning: 	Found for https://2014.guadec.org/guadec-2013-program-published/?share=reddit
+00:50:20	Warning: 	File has moved from https://2014.guadec.org/guadec-2013-program-published/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fguadec-2013-program-published%2F&title=GUADEC%202013%20Program%20Published
+00:50:21	Warning: 	Found for https://2014.guadec.org/guadec-2013-program-published/?share=twitter
+00:50:21	Warning: 	File has moved from https://2014.guadec.org/guadec-2013-program-published/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=GUADEC+2013+Program+Published&url=https%3A%2F%2F2014.guadec.org%2Fguadec-2013-program-published%2F
+00:50:21	Warning: 	Found for https://2014.guadec.org/guadec-2013-program-published/?share=facebook
+00:50:21	Warning: 	File has moved from https://2014.guadec.org/guadec-2013-program-published/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fguadec-2013-program-published%2F&t=GUADEC%202013%20Program%20Published
+00:50:21	Warning: 	Found for https://2014.guadec.org/party-at-the-starobrno-brewery/?share=google-plus-1
+00:50:21	Warning: 	File has moved from https://2014.guadec.org/party-at-the-starobrno-brewery/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fparty-at-the-starobrno-brewery%2F
+00:50:22	Warning: 	Found for https://2014.guadec.org/party-at-the-starobrno-brewery/?share=reddit
+00:50:22	Warning: 	File has moved from https://2014.guadec.org/party-at-the-starobrno-brewery/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fparty-at-the-starobrno-brewery%2F&title=Party%20at%20the%20Starobrno%20Brewery
+00:50:22	Warning: 	Found for https://2014.guadec.org/party-at-the-starobrno-brewery/?share=twitter
+00:50:22	Warning: 	File has moved from https://2014.guadec.org/party-at-the-starobrno-brewery/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Party+at+the+Starobrno+Brewery&url=https%3A%2F%2F2014.guadec.org%2Fparty-at-the-starobrno-brewery%2F
+00:50:22	Warning: 	Found for https://2014.guadec.org/party-at-the-starobrno-brewery/?share=facebook
+00:50:22	Warning: 	File has moved from https://2014.guadec.org/party-at-the-starobrno-brewery/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fparty-at-the-starobrno-brewery%2F&t=Party%20at%20the%20Starobrno%20Brewery
+00:50:22	Warning: 	Found for https://2014.guadec.org/wayland-talk-and-panel-swap/?share=google-plus-1
+00:50:22	Warning: 	File has moved from https://2014.guadec.org/wayland-talk-and-panel-swap/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fwayland-talk-and-panel-swap%2F
+00:50:23	Warning: 	Found for https://2014.guadec.org/wayland-talk-and-panel-swap/?share=reddit
+00:50:23	Warning: 	File has moved from https://2014.guadec.org/wayland-talk-and-panel-swap/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fwayland-talk-and-panel-swap%2F&title=Wayland%20talk%20and%20panel%20swap
+00:50:23	Warning: 	Found for https://2014.guadec.org/wayland-talk-and-panel-swap/?share=twitter
+00:50:23	Warning: 	File has moved from https://2014.guadec.org/wayland-talk-and-panel-swap/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Wayland+talk+and+panel+swap&url=https%3A%2F%2F2014.guadec.org%2Fwayland-talk-and-panel-swap%2F
+00:50:23	Warning: 	Found for https://2014.guadec.org/wayland-talk-and-panel-swap/?share=facebook
+00:50:23	Warning: 	File has moved from https://2014.guadec.org/wayland-talk-and-panel-swap/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fwayland-talk-and-panel-swap%2F&t=Wayland%20talk%20and%20panel%20swap
+00:50:24	Warning: 	Found for https://2014.guadec.org/guadec-party/?share=google-plus-1
+00:50:24	Warning: 	File has moved from https://2014.guadec.org/guadec-party/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fguadec-party%2F
+00:50:24	Warning: 	Found for https://2014.guadec.org/guadec-party/?share=reddit
+00:50:24	Warning: 	File has moved from https://2014.guadec.org/guadec-party/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fguadec-party%2F&title=GUADEC%20party
+00:50:24	Warning: 	Found for https://2014.guadec.org/guadec-party/?share=twitter
+00:50:24	Warning: 	File has moved from https://2014.guadec.org/guadec-party/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=GUADEC+party&url=https%3A%2F%2F2014.guadec.org%2Fguadec-party%2F
+00:50:24	Warning: 	Found for https://2014.guadec.org/guadec-party/?share=facebook
+00:50:24	Warning: 	File has moved from https://2014.guadec.org/guadec-party/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fguadec-party%2F&t=GUADEC%20party
+00:50:25	Error: 	"Not Found" (404) at link https://www.guadec.org/venue/ (from https://2014.guadec.org/author/rtcm/)
+00:50:25	Warning: 	Found for https://2014.guadec.org/welcome-to-guadec-2013/?share=google-plus-1
+00:50:25	Warning: 	File has moved from https://2014.guadec.org/welcome-to-guadec-2013/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fwelcome-to-guadec-2013%2F
+00:50:26	Warning: 	Found for https://2014.guadec.org/welcome-to-guadec-2013/?share=reddit
+00:50:26	Warning: 	File has moved from https://2014.guadec.org/welcome-to-guadec-2013/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fwelcome-to-guadec-2013%2F&title=Welcome%20to%20GUADEC%202013
+00:50:26	Warning: 	Found for https://2014.guadec.org/welcome-to-guadec-2013/?share=twitter
+00:50:26	Warning: 	File has moved from https://2014.guadec.org/welcome-to-guadec-2013/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Welcome+to+GUADEC+2013&url=https%3A%2F%2F2014.guadec.org%2Fwelcome-to-guadec-2013%2F
+00:50:27	Warning: 	Found for https://2014.guadec.org/welcome-to-guadec-2013/?share=facebook
+00:50:27	Warning: 	File has moved from https://2014.guadec.org/welcome-to-guadec-2013/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fwelcome-to-guadec-2013%2F&t=Welcome%20to%20GUADEC%202013
+00:50:27	Warning: 	Found for https://2014.guadec.org/keynote-speaker-interviews/?share=google-plus-1
+00:50:27	Warning: 	File has moved from https://2014.guadec.org/keynote-speaker-interviews/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fkeynote-speaker-interviews%2F
+00:50:28	Warning: 	Found for https://2014.guadec.org/keynote-speaker-interviews/?share=reddit
+00:50:28	Warning: 	File has moved from https://2014.guadec.org/keynote-speaker-interviews/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fkeynote-speaker-interviews%2F&title=Keynote%20speaker%20interviews
+00:50:28	Warning: 	Found for https://2014.guadec.org/keynote-speaker-interviews/?share=twitter
+00:50:28	Warning: 	File has moved from https://2014.guadec.org/keynote-speaker-interviews/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Keynote+speaker+interviews&url=https%3A%2F%2F2014.guadec.org%2Fkeynote-speaker-interviews%2F
+00:50:29	Warning: 	Found for https://2014.guadec.org/keynote-speaker-interviews/?share=facebook
+00:50:29	Warning: 	File has moved from https://2014.guadec.org/keynote-speaker-interviews/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fkeynote-speaker-interviews%2F&t=Keynote%20speaker%20interviews
+00:50:29	Warning: 	Found for https://www.guadec.org/registration/
+00:50:29	Warning: 	File has moved from https://www.guadec.org/registration/ to https://www.guadec.org/register/
+00:50:30	Warning: 	Found for https://2014.guadec.org/registration-open/?share=google-plus-1
+00:50:30	Warning: 	File has moved from https://2014.guadec.org/registration-open/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fregistration-open%2F
+00:50:30	Warning: 	Found for https://2014.guadec.org/registration-open/?share=reddit
+00:50:30	Warning: 	File has moved from https://2014.guadec.org/registration-open/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fregistration-open%2F&title=Registration%20open
+00:50:30	Warning: 	Found for https://2014.guadec.org/registration-open/?share=twitter
+00:50:30	Warning: 	File has moved from https://2014.guadec.org/registration-open/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Registration+open&url=https%3A%2F%2F2014.guadec.org%2Fregistration-open%2F
+00:50:30	Warning: 	Found for https://2014.guadec.org/registration-open/?share=facebook
+00:50:30	Warning: 	File has moved from https://2014.guadec.org/registration-open/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fregistration-open%2F&t=Registration%20open
+00:50:31	Error: 	"Not Found" (404) at link https://www.guadec.org/?page_id=695 (from https://2014.guadec.org/author/rtcm/)
+00:50:31	Warning: 	Found for https://2014.guadec.org/hotel-offers/?share=google-plus-1
+00:50:31	Warning: 	File has moved from https://2014.guadec.org/hotel-offers/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fhotel-offers%2F
+00:50:31	Warning: 	Found for https://2014.guadec.org/hotel-offers/?share=reddit
+00:50:31	Warning: 	File has moved from https://2014.guadec.org/hotel-offers/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fhotel-offers%2F&title=Hotel%20offers
+00:50:32	Warning: 	Found for https://2014.guadec.org/hotel-offers/?share=twitter
+00:50:32	Warning: 	File has moved from https://2014.guadec.org/hotel-offers/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Hotel+offers&url=https%3A%2F%2F2014.guadec.org%2Fhotel-offers%2F
+00:50:32	Warning: 	Found for https://2014.guadec.org/hotel-offers/?share=facebook
+00:50:32	Warning: 	File has moved from https://2014.guadec.org/hotel-offers/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fhotel-offers%2F&t=Hotel%20offers
+00:50:32	Warning: 	Found for https://2014.guadec.org/call-for-participation-is-over/?share=google-plus-1
+00:50:32	Warning: 	File has moved from https://2014.guadec.org/call-for-participation-is-over/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fcall-for-participation-is-over%2F
+00:50:32	Warning: 	Found for https://2014.guadec.org/call-for-participation-is-over/?share=reddit
+00:50:32	Warning: 	File has moved from https://2014.guadec.org/call-for-participation-is-over/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fcall-for-participation-is-over%2F&title=Call%20for%20papers%20is%20over
+00:50:32	Warning: 	Found for https://2014.guadec.org/call-for-participation-is-over/?share=twitter
+00:50:32	Warning: 	File has moved from https://2014.guadec.org/call-for-participation-is-over/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Call+for+papers+is+over&url=https%3A%2F%2F2014.guadec.org%2Fcall-for-participation-is-over%2F
+00:50:32	Warning: 	Found for https://2014.guadec.org/call-for-participation-is-over/?share=facebook
+00:50:32	Warning: 	File has moved from https://2014.guadec.org/call-for-participation-is-over/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fcall-for-participation-is-over%2F&t=Call%20for%20papers%20is%20over
+00:50:32	Warning: 	Found for https://2014.guadec.org/call-for-papers/?share=google-plus-1
+00:50:32	Warning: 	File has moved from https://2014.guadec.org/call-for-papers/?share=google-plus-1 to https://plus.google.com/share?url=https%3A%2F%2F2014.guadec.org%2Fcall-for-papers%2F
+00:50:32	Warning: 	Found for https://2014.guadec.org/call-for-papers/?share=reddit
+00:50:32	Warning: 	File has moved from https://2014.guadec.org/call-for-papers/?share=reddit to https://reddit.com/submit?url=https%3A%2F%2F2014.guadec.org%2Fcall-for-papers%2F&title=Call%20for%20papers
+00:50:32	Warning: 	Found for https://2014.guadec.org/call-for-papers/?share=twitter
+00:50:32	Warning: 	File has moved from https://2014.guadec.org/call-for-papers/?share=twitter to https://twitter.com/intent/tweet?via=gnome&text=Call+for+papers&url=https%3A%2F%2F2014.guadec.org%2Fcall-for-papers%2F
+00:50:32	Warning: 	Found for https://2014.guadec.org/call-for-papers/?share=facebook
+00:50:32	Warning: 	File has moved from https://2014.guadec.org/call-for-papers/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2F2014.guadec.org%2Fcall-for-papers%2F&t=Call%20for%20papers
+
+HTTrack Website Copier/3.48-1 mirror complete in 1 minutes 45 seconds : 349 links scanned, 131 files written (4831971 bytes overall) [3046092 bytes received at 29010 bytes/sec], 2743471 bytes transferred using HTTP compression in 314 files, ratio 26%, 14.6 requests per connection
+(5 errors, 428 warnings, 0 messages)

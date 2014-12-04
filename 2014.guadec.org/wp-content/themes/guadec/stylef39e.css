@@ -1,0 +1,182 @@
+/*
+ Theme Name:   GUADEC
+ Description:  Theme for GUADEC, the GNOME conference. Twenty Twelve Child
+ Author:       Fabiana Simões and Andreas Nilsson
+ Template:     twentytwelve
+ Version:      1.0.0
+ Text Domain:  guadec
+*/
+
+@import url("../twentytwelve/style.css");
+/* 
+ * Background 
+ */
+
+html, body, .site {
+    background-color: #F5F5F4;
+}
+body .site {
+    box-shadow: none;
+}
+
+/*
+ * Links, Text and Headings
+ * GUADEC Blue: #6E8B9F
+ */
+
+h1, h2, h3, h4, h5, h6 {
+    color: #6E8B9F;
+}
+
+.photo-attribution {
+    font-style: italic;
+    font-size: 0.928571rem;
+}
+
+/*
+ * Header
+ */
+
+.site-header {
+    padding-top: 1.71429rem  0;
+}
+#masthead hgroup {
+    margin: 0 auto;
+    width: 500px;
+}
+.guadec-logo {
+   background: url("images/logo.png") no-repeat scroll center center rgba(0, 0, 0, 0);
+    width: 245px;
+}
+#masthead hgroup h2 {
+    color: #6B8E9F;
+    margin-top: 10px;
+    padding: 0 10px;
+    vertical-align: middle;
+}
+#masthead hgroup h2, .guadec-logo {
+    display: inline-block;
+    height: 66px;
+}
+@media only screen and (max-width : 480px) {
+    #masthead hgroup, #masthead hgroup h2 {
+        width: 245px;
+    }
+    #masthead hgroup h2, .guadec-logo {
+        display: block;
+    }
+    #masthead hgroup h2 {
+        height: 30px;
+        padding: 0;
+    }
+    .guadec-logo {
+        width: 245px;
+        margin-top: 10px
+    }
+}
+@media only screen and (min-width: 481px) and (max-width: 600px) {
+    #masthead hgroup h2 {
+        margin-top: -20px;
+    }
+    .main-navigation {
+        margin-top: 0;
+    }
+}
+@media only screen and (min-width: 481px) and (max-width: 800px) {
+    .site-header {
+        padding-bottom: 0;
+        padding-top: 5rem;
+    }
+}
+
+
+/* 
+ * Navigation
+ */
+
+.main-navigation .current-menu-item > a, .main-navigation .current-menu-ancestor > a, .main-navigation .current_page_item > a, .main-navigation .current_page_ancestor > a, .main-navigation li a:hover {
+    color: #6B8E9F;
+}
+.main-navigation li a:hover {
+    text-decoration: underline;
+}
+
+/*
+ * Front Page
+ */
+
+.city-picture {
+    width: 50%;
+}
+@media only screen and (max-width: 800px) {
+    .city-picture {
+        width: 100%;
+    }
+}
+@media only screen and (min-width: 481px) and (max-width: 800px) {
+    .template-front-page .entry-page-image {
+        float: none;
+        padding-bottom: 40px;
+        text-align: center;
+        width: 100%;
+    }
+    .template-front-page.has-post-thumbnail article {
+        float: none;
+        width: 100%;
+    }
+}
+
+/* View Registered Table */
+.regtable {
+    border: 5;
+    width: 100%;
+}
+/*
+ * Footer
+ */
+
+.footer-image {
+    background: url("images/skyline.png") no-repeat scroll center center rgba(0, 0, 0, 0);
+    height: 150px;
+}
+footer#colophon {
+    background-color: #6B8E9F;
+    border-top: 0 none;
+    margin-top: 0;
+    max-width: 100%;
+}
+.site-info {
+    color: #FFFFFF;
+    margin: 0 auto;
+    max-width: 68.5714rem;
+}
+footer[role="contentinfo"] a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+footer[role="contentinfo"] a:hover {
+    border-bottom: 1px solid #EEEEEE;
+    color: #EEEEEE;
+    text-decoration: none;
+}
+.wp-credit {
+    float: right;
+}
+
+@media only screen and (max-width: 480px) {
+    .wp-credit, .gnome-credit {
+        float: none;
+        display: block;
+        text-align: center;
+    }
+    .wp-credit {
+        padding-top: 15px;
+    }
+}
+@media only screen and (max-width: 1040px) {
+    .site-info {
+        margin: 0 25px;
+    }
+}
+
+
